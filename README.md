@@ -1,2 +1,2 @@
 # pratice
-test for github commands 
+pratice for github commands 
